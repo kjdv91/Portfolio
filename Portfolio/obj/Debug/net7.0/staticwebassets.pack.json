@@ -17,8 +17,24 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\AspNet\\Portfolio\\Portfolio\\wwwroot\\img\\CryptomanosBoard.png",
+      "PackagePath": "staticwebassets\\img\\CryptomanosBoard.png"
+    },
+    {
       "Id": "C:\\AspNet\\Portfolio\\Portfolio\\wwwroot\\img\\Foto.jpg",
       "PackagePath": "staticwebassets\\img\\Foto.jpg"
+    },
+    {
+      "Id": "C:\\AspNet\\Portfolio\\Portfolio\\wwwroot\\img\\GameNft.jpg",
+      "PackagePath": "staticwebassets\\img\\GameNft.jpg"
+    },
+    {
+      "Id": "C:\\AspNet\\Portfolio\\Portfolio\\wwwroot\\img\\NftCollection.jpg",
+      "PackagePath": "staticwebassets\\img\\NftCollection.jpg"
+    },
+    {
+      "Id": "C:\\AspNet\\Portfolio\\Portfolio\\wwwroot\\img\\ape2023.jpg",
+      "PackagePath": "staticwebassets\\img\\ape2023.jpg"
     },
     {
       "Id": "C:\\AspNet\\Portfolio\\Portfolio\\wwwroot\\js\\site.js",
