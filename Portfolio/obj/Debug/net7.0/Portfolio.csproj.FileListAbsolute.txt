@@ -6,6 +6,9 @@ C:\AspNet\Portfolio\Portfolio\bin\Debug\net7.0\Portfolio.deps.json
 C:\AspNet\Portfolio\Portfolio\bin\Debug\net7.0\Portfolio.runtimeconfig.json
 C:\AspNet\Portfolio\Portfolio\bin\Debug\net7.0\Portfolio.dll
 C:\AspNet\Portfolio\Portfolio\bin\Debug\net7.0\Portfolio.pdb
+C:\AspNet\Portfolio\Portfolio\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\AspNet\Portfolio\Portfolio\bin\Debug\net7.0\SendGrid.dll
+C:\AspNet\Portfolio\Portfolio\bin\Debug\net7.0\StarkbankEcdsa.dll
 C:\AspNet\Portfolio\Portfolio\obj\Debug\net7.0\Portfolio.csproj.AssemblyReference.cache
 C:\AspNet\Portfolio\Portfolio\obj\Debug\net7.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
 C:\AspNet\Portfolio\Portfolio\obj\Debug\net7.0\Portfolio.AssemblyInfoInputs.cache
@@ -24,6 +27,7 @@ C:\AspNet\Portfolio\Portfolio\obj\Debug\net7.0\staticwebassets.development.json
 C:\AspNet\Portfolio\Portfolio\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\AspNet\Portfolio\Portfolio\obj\Debug\net7.0\scopedcss\bundle\Portfolio.styles.css
 C:\AspNet\Portfolio\Portfolio\obj\Debug\net7.0\scopedcss\projectbundle\Portfolio.bundle.scp.css
+C:\AspNet\Portfolio\Portfolio\obj\Debug\net7.0\Portfolio.csproj.CopyComplete
 C:\AspNet\Portfolio\Portfolio\obj\Debug\net7.0\Portfolio.dll
 C:\AspNet\Portfolio\Portfolio\obj\Debug\net7.0\refint\Portfolio.dll
 C:\AspNet\Portfolio\Portfolio\obj\Debug\net7.0\Portfolio.pdb
